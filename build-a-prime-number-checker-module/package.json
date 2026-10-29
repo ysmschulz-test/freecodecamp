@@ -1,0 +1,13 @@
+{
+  "name": "build-a-prime-number-checker-module",
+  "version": "1.0.0",
+  "description": "prime number checker",
+  "license": "MIT",
+  "author": "Martin Schulz",
+  "type": "commonjs",
+  "main": "index.js",
+  "keywords": ["prime"],
+  "scripts": {
+    "test": "node index.test.js"
+  }
+}
